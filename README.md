@@ -20,3 +20,8 @@ $ conda install --file requirements.txt
 * Application chose: virtual_platform 
 * Lunch spider 
 * Open : face_recognition_commented.py   
+
+## cascades
+Get haarcascades from:
+
+https://github.com/opencv/opencv/tree/master/data/haarcascades
