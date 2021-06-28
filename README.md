@@ -15,7 +15,7 @@ download the requirements.txt or copy  and paste it in a txt file in your home d
 
 $ conda install --file requirements.txt 
 
-## Cascades
+## Cascades for face Recognition
 Get haarcascades from:
 
 https://github.com/opencv/opencv/tree/master/data/haarcascades
