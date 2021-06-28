@@ -1,4 +1,4 @@
-# Computer_Vision
+# Face_Recognition
 
 ## Installation
 $ conda create --name virtual_platform 
