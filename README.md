@@ -15,13 +15,13 @@ download the requirements.txt or copy  and paste it in a txt file in your home d
 
 $ conda install --file requirements.txt 
 
-## strat 
+## Cascades
+Get haarcascades from:
+
+https://github.com/opencv/opencv/tree/master/data/haarcascades
+
+## Strat 
 * Open Anaconda-navigator
 * Application chose: virtual_platform 
 * Lunch spider 
 * Open : face_recognition_commented.py   
-
-## cascades
-Get haarcascades from:
-
-https://github.com/opencv/opencv/tree/master/data/haarcascades
