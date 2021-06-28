@@ -24,4 +24,4 @@ https://github.com/opencv/opencv/tree/master/data/haarcascades
 * Open Anaconda-navigator
 * Application chose: virtual_platform 
 * Lunch spider 
-* Open : face_recognition_commented.py   
+* Open :  Face_Recognition.py  
