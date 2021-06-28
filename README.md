@@ -1,6 +1,8 @@
-# Face_Recognition
+# Computer Vision
 
-## Installation
+## Face_Recognition
+
+### Installation
 $ conda create --name virtual_platform 
 
 $ conda activate virtual_platform   
@@ -15,12 +17,12 @@ download the requirements.txt or copy  and paste it in a txt file in your home d
 
 $ conda install --file requirements.txt 
 
-## Cascades for face Recognition
+### Cascades for face Recognition
 Get haarcascades from:
 
 https://github.com/opencv/opencv/tree/master/data/haarcascades
 
-## Strat 
+### Strat 
 * Open Anaconda-navigator
 * Application chose: virtual_platform 
 * Lunch spider 
