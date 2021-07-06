@@ -1,7 +1,4 @@
 # Face Recognition
-#update july 
-
-a = 2
 
 import cv2
 
